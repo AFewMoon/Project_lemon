@@ -4,7 +4,7 @@ A tiny judging environment for OI contest.
 
 本程序仅供自娱自乐，请勿用于正式场合！(Lemon does not have any Sandbox under both Linux and Windows!)
 
-Windows 用户请到 Downloads 里下载 `lemon_v(...)_release_mingw.7z`。
+Windows 用户请到 Downloads 里下载。
 
 请用git clone源代码，或使用右方的Download ZIP功能。
 
